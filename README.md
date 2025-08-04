@@ -14,3 +14,7 @@ This constructor takes values as input and sets them in the object.
 
 ✅ **Copy Constructor (Manual)**<br>
 This is used to copy values from one object to another.
+
+📝 **Still Learning...**<br>
+I'm still learning Java, so these programs are simple.<br>
+If you find any mistake or have suggestions, feel free to let me know!
